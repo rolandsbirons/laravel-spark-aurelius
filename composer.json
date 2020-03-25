@@ -1,5 +1,5 @@
 {
-    "name": "urbics/laravel-spark-aurelius",
+    "name": "laravel/laravel-spark-aurelius",
     "description": "Laravel Spark provides scaffolding for Laravel SaaS applications.",
     "keywords": ["laravel", "stripe", "billing", "scaffolding", "saas"],
     "license": "MIT",
